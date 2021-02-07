@@ -1,0 +1,10 @@
+[package]
+name = "draw_a_box"
+version = "0.1.0"
+authors = ["Carl Scherer <dev@cscher.com>"]
+edition = "2018"
+license = "MIT"
+description = "Constants for all 128 characters in the box-drawing unicode block and a way to choose a character dynamically."
+repository = "https://github.com/Lireer/draw-a-box"
+categories = ["command-line-interface", "gui", "no-std"]
+keywords = ["box-drawing", "box", "drawing", "unicode", "utf8"]
